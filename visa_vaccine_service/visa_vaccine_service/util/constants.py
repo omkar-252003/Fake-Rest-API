@@ -13,8 +13,8 @@ CITY_IATA_MAPPING = {
 }
 
 # Amadeus API credentials
-AMADEUS_CLIENT_ID = "E08DLNpjDBc6zjuWcaW3tPNqnV1xCHRj"
-AMADEUS_CLIENT_SECRET = "RlP99N6iGyWX3Em6"
+AMADEUS_CLIENT_ID = ""
+    AMADEUS_CLIENT_SECRET = ""
 
 # Amadeus API endpoints
 TOKEN_URL = "https://test.api.amadeus.com/v1/security/oauth2/token"
